@@ -79,3 +79,17 @@ There are a few interactive graphs for the stocks you run, which you can see exa
 
 ![Daily_returns](readme-images/dailreturnchart.png)
 
+
+
+
+Created by Austin means and Amrita Prithiani  while in the UW FinTech Bootcamp
+> Contact Info:
+> email: AUSTIN:austinmeans92@gmail.com |
+         AMRITA:amritaprithiani@gmail.com
+
+
+---
+
+## License
+
+[MIT](LICENSE)
