@@ -1,7 +1,7 @@
 import yfinance as yf
 import pandas as pd
 import csv
-tickerStrings = ['AAPL', 'TSLA', 'NVDA','AMZN','BABA']
+tickerStrings = ['AAPL', 'TSLA', 'NVDA','AMZN','BABA','SPY']
 df_list = list()
 for ticker in tickerStrings:
     data = yf.download(ticker, group_by="Ticker", period='36mo')
